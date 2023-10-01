@@ -1,5 +1,5 @@
 
-![233397](https://github.com/JunLovin/JunLovin/assets/96802832/f2a5ce11-9c4f-4ff8-a017-e460a5ae4b4c)
+![wp5167991](https://github.com/JunLovin/JunLovin/assets/96802832/5b2dc96c-7083-45a0-bfe5-b21bec820589)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/446418348943867904) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/junlovin23/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/JunLovin23) 
