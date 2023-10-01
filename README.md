@@ -12,7 +12,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JunLovin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JunLovin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=JunLovin&theme=radical&no-frame=false&no-bg=true&margin-w=4" media="(prefers-color-scheme: dark)">
+    <img src="https://github-profile-trophy.vercel.app/?username=JunLovin&no-frame=false&no-bg=true&margin-w=4">
+</picture>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
