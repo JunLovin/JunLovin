@@ -1,5 +1,4 @@
-
-![wp5167991](https://github.com/JunLovin/JunLovin/assets/96802832/5b2dc96c-7083-45a0-bfe5-b21bec820589)
+![coding-function-repeat-eat-sleep-7zxwkklr847mhchm](https://github.com/JunLovin/JunLovin/assets/96802832/b2213bbd-d038-4a11-a801-185ea790b794)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,nodejs,bash,java,flask,django)](https://skillicons.dev)
