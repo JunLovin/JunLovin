@@ -1,7 +1,7 @@
 ![coding-function-repeat-eat-sleep-7zxwkklr847mhchm](https://github.com/JunLovin/JunLovin/assets/96802832/b2213bbd-d038-4a11-a801-185ea790b794)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,nodejs,bash,java,flask,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,nodejs,bash,java,flask,django,python)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JunLovin&theme=dark)](https://git.io/streak-stats)
