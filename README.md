@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JunLovin&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunLovin&show_icons=true&theme=dark)
+![JunLovin GitHub stats](https://github-readme-stats.vercel.app/api?username=JunLovin&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=JunLovin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
