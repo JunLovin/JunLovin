@@ -1,4 +1,4 @@
-![coding-function-repeat-eat-sleep-7zxwkklr847mhchm](https://github.com/JunLovin/JunLovin/assets/96802832/b2213bbd-d038-4a11-a801-185ea790b794)
+![](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,nodejs,bash,java,flask,django,ts,py,php,neovim,vscode)](https://skillicons.dev)
