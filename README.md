@@ -1,7 +1,7 @@
 ![](https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,lua,nodejs,bash,java,flask,django,ts,py,php,neovim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JunLovin&theme=dark)](https://git.io/streak-stats)
