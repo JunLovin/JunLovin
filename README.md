@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+JunLovin's+Github!)](https://git.io/typing-svg)
-
-![]()
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+JunLovin's+Github!"/>
+</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
