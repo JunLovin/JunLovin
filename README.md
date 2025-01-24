@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+JunLovin's+Github!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+JunLovin's+GitHub!"/>
 </div>
 
 <div align="center">
