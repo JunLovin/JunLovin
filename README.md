@@ -13,5 +13,7 @@
 
 <div align="center">
   <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=JunLovin&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=junlovin&theme=onestar"/>
 </div>
+
+
