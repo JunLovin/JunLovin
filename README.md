@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express"/>
 </div>
 
 <div align="center">
