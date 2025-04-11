@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif",tailwind>
+  <img src="https://i.pinimg.com/originals/b4/9d/20/b49d20d0df6421ac97215064a9c694e5.gif">
 </di
 
 <div align="center">
