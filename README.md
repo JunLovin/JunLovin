@@ -12,6 +12,11 @@
 </div>
 
 <div align="center">
+  <h2>Currently Learning</h2>
+  <img src="https://skillicons.dev/icons?i=astro"/>
+</div>
+
+<div align="center">
   <h2>GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=junlovin&theme=flat"/>
 </div>
