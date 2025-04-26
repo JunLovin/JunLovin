@@ -13,7 +13,7 @@
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=astro"/>
+  <img src="https://skillicons.dev/icons?i=astro,py"/>
 </div>
 
 <div align="center">
