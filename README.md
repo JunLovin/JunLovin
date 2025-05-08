@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&s,tailwindize=24=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+JunLovin's+GitHub!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,12 +8,12 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,postgresql"/>
 </div>
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=astro,py"/>
+  <img src="https://skillicons.dev/icons?i=py"/>
 </div>
 
 <div align="center">
