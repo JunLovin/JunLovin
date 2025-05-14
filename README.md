@@ -13,7 +13,7 @@
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=py"/>
+  <img src="https://skillicons.dev/icons?i=py,django"/>
 </div>
 
 <div align="center">
