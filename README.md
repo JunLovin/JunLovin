@@ -14,9 +14,9 @@
 <div align="center">
   <h2>Currently Learning</h2>
   <img src="https://skillicons.dev/icons?i=py,django"/>
-</div>
+</div> 
 
 <div align="center">
   <h2>GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=junlovin&theme=flat"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=junlovin&title=Experience,Reviews,Reviews,Commits,PullRequest,Repositories&theme=gitdimmed&no-bg=true&column=5"/>
 </div>
