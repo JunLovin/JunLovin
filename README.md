@@ -8,12 +8,12 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,py,postgresql"/>
 </div>
 
 <div align="center">
   <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=py,django,java"/>
+  <img src="https://skillicons.dev/icons?i=flutter"/>
 </div> 
 
 <div align="center">
