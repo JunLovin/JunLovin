@@ -8,12 +8,12 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,py,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,py,postgresql,flutter"/>
 </div>
 
 <div align="center">
-  <h2>Currently Learning</h2>
-  <img src="https://skillicons.dev/icons?i=flutter"/>
+  <h2>My Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junlovin&layout=compact&theme=transparent"/>
 </div> 
 
 <div align="center">
