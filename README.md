@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B%F0%9F%8F%BB;%C2%A1Bienvenid@+a+mi+perfil+de+GitHub!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b4/9d/20/b49d20d0df6421ac97215064a9c694e5.gif">
-</di
+<img width="1584" height="396" alt="said-ruiz-banner" src="https://github.com/user-attachments/assets/f870988c-6138-4518-bf03-a5fa7319ec07" />
 
 <div align="center">
   <h2>Tech Stack</h2>
