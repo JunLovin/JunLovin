@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,py,postgresql,flutter"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,express,py,postgresql,flutter&perline=6"/>
 </div>
 
 <div align="center">
