@@ -6,5 +6,5 @@
 
 <div align="center">
   <h2>Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,deno,express,py,postgresql,flutter,aws,gcp&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,astro,nodejs,deno,express,py,postgresql,docker,flutter,aws,gcp&perline=6"/>
 </div>
